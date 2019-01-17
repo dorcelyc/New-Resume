@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/New-Resume/static/css/main.038f939c.chunk.css"
   },
   {
-    "revision": "cb51b95e713295f07810ca0ff223a1e6",
+    "revision": "77358b4093c65c6b46e027db0e47d405",
     "url": "/New-Resume/index.html"
   }
 ];
